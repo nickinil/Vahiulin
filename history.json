@@ -1,0 +1,26 @@
+[
+  {
+    "date": "2026-04-28 10:15:00",
+    "amount": 10.0,
+    "from_currency": "USD",
+    "to_currency": "RUB",
+    "result": 909.09,
+    "rate": 90.909091
+  },
+  {
+    "date": "2026-04-28 10:20:00",
+    "amount": 5.0,
+    "from_currency": "EUR",
+    "to_currency": "RUB",
+    "result": 490.91,
+    "rate": 98.181818
+  },
+  {
+    "date": "2026-04-28 10:25:00",
+    "amount": 1000.0,
+    "from_currency": "RUB",
+    "to_currency": "USD",
+    "result": 11.0,
+    "rate": 0.011
+  }
+]
